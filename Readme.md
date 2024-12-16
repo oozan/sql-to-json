@@ -1,5 +1,7 @@
 # SQL-to-JSON
 
+Created and maintained by **oozan**
+
 SQL-to-JSON is a Node.js application that interacts with a PostgreSQL database. It allows users to dynamically fetch data from database tables and save it in a JSON format. The application is designed for developers to simplify database data extraction and transformation.
 
 ---
